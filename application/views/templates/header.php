@@ -26,7 +26,7 @@
 <tr>
 
 <td align="center" class="navigation"><a href='view/home'>Home</a></td>
-<td align="center" class="navigation"><a href='view/browse'>Browse</a></td>
+<td align="center" class="navigation"><a href='browse'>Browse</a></td>
 <td align="center" class="navigation"><a href='upload.php'>Upload</a></td>
 <?php if (!isset($CURUSER)) { ?>
 <td align="center" class="navigation">
